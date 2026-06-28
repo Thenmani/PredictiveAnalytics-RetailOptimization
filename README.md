@@ -1,6 +1,6 @@
 # Laptop Sales — Predictive Analytics for Retail Optimization
 
-Predictive modeling on a January 2008 laptop sales dataset to support **pricing strategy** and **inventory planning** for a consumer electronics retailer.
+Predictive modeling on laptop sales dataset to support **pricing strategy** and **inventory planning** for a consumer electronics retailer.
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ Built and evaluated regression models that predict a laptop's **Retail Price** f
 
 ## Dataset
 
-- ~7,956 laptop sales transactions (January 2008, London area)
+- ~7,956 laptop sales transactions
 - **Target:** Retail Price 
 - **Features:** HD Size (GB), RAM (GB), Battery Life (Hours), Processor Speed (GHz), Integrated Wireless (Yes/No), Bundled Applications (Yes/No)
 
